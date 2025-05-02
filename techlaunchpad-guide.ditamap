@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+
+<title>Content Index</title>
+
+<topicref href="topics/introduction.dita" navtitle="Introduction"/>
+<topicref href="topics/top-10-roles.dita" navtitle="Top 10 In-Demand Tech Roles in 2025"/>
+<topicref href="topics/skills-for-roles.dita" navtitle="Essential Skills"/>
+<topicref href="topics/where-to-apply.dita" navtitle="Where to Find Tech Job Openings"/>
+<topicref href="topics/write-resume.dita" navtitle="Write Your Compelling Resume"/>
+<topicref href="topics/interview-prep.dita" navtitle="Interview 101: Preparation is Key"/>
+
+</map>

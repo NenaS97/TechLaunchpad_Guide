@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="interview-prep">
+
+<title>Interview 101: Preparation is Key</title>
+<shortdesc>This section provides essential steps to effectively prepare for your upcoming technical job interview, increasing your confidence and chances of success.</shortdesc>
+
+<taskbody>
+
+<prereq>
+<p>Before you begin preparing for your tech interview, ensure you have:</p>
+<ul>
+<li>Successfully scheduled an interview with the company.</li>
+<li>A clear understanding of the interview format (e.g., technical screening, behavioral interview, coding challenge).</li>
+<li>The job description readily available.</li>
+</ul>
+
+<p>After the initial preparation, follow the steps below:</p>
+
+</prereq>
+
+<steps>
+
+<step>
+<cmd><b>Thoroughly Research the Company</b></cmd>
+<info>Visit the company's website to understand their mission, values, products, services, recent news, and company culture. Look at their social media presence and read employee reviews on platforms like <xref href="https://www.glassdoor.co.in/index.htm" scope="external">Glassdoor</xref>. Understanding the company will help you tailor your answers.</info>
+</step>
+
+<step>
+<cmd><b>Review the Job Description </b></cmd>
+<info> Identify the key skills, qualifications, and responsibilities mentioned in the job description. Make a list of these requirements and think about specific examples from your experience that demonstrate your proficiency.</info>
+</step>
+
+<step>
+<cmd><b>Prepare for Common Interview Questions</b></cmd>
+<info> Practice answering standard behavioral questions like "Tell me about yourself," "Why are you interested in this role/company?", and "Tell me about a time you faced a challenge and how you overcame it." Use the STAR method (Situation, Task, Action, Result) to structure your answers.</info>
+</step>
+
+<step>
+<cmd><b>Practice Technical Questions and Coding Challenges</b></cmd>
+<info>If the role involves coding, practice solving algorithmic problems and data structure questions on platforms like <xref href="https://leetcode.com/" scope="external">LeetCode</xref>, <xref href="https://www.hackerrank.com/" scope="external">HackerRank</xref>, or <xref href="https://www.codility.com/" scope="external">Codility</xref>. Review fundamental concepts related to the technologies mentioned in the job description. If it's a system design role, practice designing scalable systems for various scenarios.</info>
+</step>
+
+<step>
+<cmd><b>Prepare Questions for the Interviewer</b></cmd>
+<info>Asking thoughtful questions demonstrates your engagement and genuine interest in the role. Prepare 2-3 questions related to the team, the projects you might be working on, the company culture, or opportunities for growth. Avoid asking questions that can easily be found online.</info>
+</step>
+
+<step>
+<cmd><b>Gather Your Portfolio and Work Samples</b></cmd>
+<info>If you have a portfolio of projects, code samples on <xref href="https://github.com/" scope="external">GitHub</xref>, or other relevant work examples, have them readily accessible to share during the interview if the opportunity arises.</info>
+</step>
+
+<step>
+<cmd><b>Plan Your Outfit and Logistics</b></cmd>
+<info>Choose professional attire that makes you feel confident and comfortable. For virtual interviews, ensure you have a stable internet connection, a quiet environment, and a professional background. Test your microphone and camera beforehand. For in-person interviews, plan your route and allow ample time to arrive early.</info>
+</step>
+
+<step>
+<cmd><b>Review Your Resume and Cover Letter</b></cmd>
+<info>Be thoroughly familiar with the content of your resume and cover letter. Be prepared to elaborate on any points mentioned and provide further details.</info>
+</step>
+
+<step>
+<cmd><b>Practice Your Delivery</b></cmd>
+<info>Practice your answers out loud, either to yourself or with a friend. Pay attention to your pace, clarity, and body language. For virtual interviews, maintain good eye contact with the camera.</info>
+</step>
+
+</steps>
+
+<postreq>After your preparation, take a short break to clear your mind before the actual interview. Review your notes and the questions you plan to ask one last time.</postreq>
+
+</taskbody>
+</task>

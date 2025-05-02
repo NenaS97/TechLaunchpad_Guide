@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="write-resume">
+
+<title>Write Your Compelling Resume</title>
+
+<taskbody>
+
+<prereq>
+<p>Before you begin writing your resume, gather the following information:</p>
+<ul>
+<li>Your complete work history, including company names, job titles, dates of employment, and a brief description of your responsibilities.</li>
+<li>Details of your educational background, including degrees, institutions attended, graduation dates, and any relevant academic achievements.</li>
+<li>A comprehensive list of your technical skills, including programming languages, frameworks, tools, and technologies you are proficient in.</li>
+<li>Information about relevant projects you have worked on, technologies used, and contributions.</li>
+<li>Details of any certifications, awards, or recognition you have received.</li>
+</ul>
+
+<p>After gathering all the required information, please follow the steps below:</p>
+</prereq>
+
+<steps>
+
+<step>
+<cmd><b>Choose a Professional Format:</b> Use a clean, readable template with consistent formatting.</cmd>
+</step>
+
+<step>
+<cmd><b>Contact Information:</b> Include name, phone, professional email, and LinkedIn URL.</cmd>
+</step>
+
+<step>
+<cmd><b>Objective:</b> Write a brief (2-3 sentence) summary of your key skills and goals (for experienced) or career objective (for entry-level).</cmd>
+</step>
+
+<step>
+<cmd><b>Professional Experience:</b> List jobs (most recent first) with company, title, dates, and 3-5 bullet points of quantifiable achievements using action verbs.</cmd>
+</step>
+
+<step>
+<cmd><b>Education:</b> List degrees (most recent first) with degree name, major, university, and graduation date. Include relevant coursework if applicable.</cmd>
+</step>
+
+<step>
+<cmd><b>Technical Skills:</b> Create a categorized list (e.g., Programming, Frameworks, Tools) of your proficiencies.</cmd>
+</step>
+
+<step>
+<cmd><b>Projects (Recommended):</b> Include personal/academic projects showcasing skills, with brief descriptions, technologies, and your role. Link to live demos/<xref href="https://github.com/" scope="external">GitHub</xref> if possible.</cmd>
+</step>
+
+<step>
+<cmd><b>Optional Sections:</b> Add relevant certifications, awards, or professional affiliations if they strengthen your application.</cmd>
+</step>
+
+<step>
+<cmd><b>Proofread Carefully:</b> Review for errors in grammar and spelling. Get someone else to read it too.</cmd>
+</step>
+
+</steps>
+
+<result>Once completed, you will have a well-structured and compelling resume that effectively increases your chances of landing interviews for your desired tech roles.</result>
+
+<postreq>
+<p><b>Please Note:</b></p>
+<ul>
+<li>Save your resume in PDF format to preserve formatting across different devices.</li>
+<li>Tailor your resume to each specific job application, emphasizing the skills and experiences most relevant to the job description.</li>
+<li>Seek feedback on your resume from career advisors, mentors, or experienced professionals in your field.</li>
+<li>Keep your resume updated as you gain new skills and experience.</li>
+</ul>
+</postreq>
+
+</taskbody>
+</task>

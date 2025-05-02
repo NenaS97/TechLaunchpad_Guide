@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="job-application-sites">
+
+<title>Find Tech Jobs</title>
+<shortdesc>This section provides a list of valuable online platforms and resources where you can search for technology job opportunities.</shortdesc>
+
+<refbody>
+
+<section>
+<p>Finding the right platform to begin your tech job search is a crucial first step. Numerous websites and professional networks cater specifically to tech roles, offering a wide range of opportunities from startups to established corporations. Here are several key resources to explore:</p>
+
+<ul>
+<li>
+<xref href="https://www.linkedin.com/jobs/" scope="external">LinkedIn</xref> - A professional networking platform with a robust job search engine, allowing you to connect with recruiters and companies directly.</li>
+
+<li>
+<xref href="https://in.indeed.com/" scope="external">Indeed</xref> - A comprehensive job search engine that aggregates listings from various company websites and job boards.</li>
+
+<li>
+<xref href="https://www.glassdoor.co.in/Job/index.htm" scope="external">Glassdoor</xref> - Offers a vast database of job openings, company reviews, salary information, and interview insights.</li>
+
+<li>
+<xref href="https://www.naukri.com/" scope="external">Naukri.com</xref> - A popular job portal in India with a strong presence in the tech sector.</li>
+
+<li>
+<xref href="https://stackoverflow.com" scope="external">Stack Overflow</xref> - Find jobs from job boards in the developer community, often listing roles requiring specific technical skills.</li>
+
+<li>
+<xref href="https://wellfound.com/jobs" scope="external">wellfound:</xref> - A platform primarily focused on connecting talent with startup and early-stage companies. It often features opportunities in innovative tech fields and can include equity options.</li>
+
+<li>
+<xref href="https://www.foundit.in/" scope="external">foundit</xref> - A global job search engine with a significant number of tech listings.</li>
+
+<li>
+<xref href="https://www.lhh.com/us/en/hired/" scope="external">LHH Recruitment Solutions</xref> - A platform where tech talent can create profiles and receive interview requests from interested companies.</li>
+
+<li>
+<xref href="https://www.dice.com/" scope="external">Dice.com</xref> - Specifically caters to technology and engineering professionals.</li>
+
+<li><b>Company Career Pages</b> - Most tech companies have dedicated "Careers" or "Jobs" pages on their own websites where they directly list their open positions. It's always a good idea to check the websites of companies you are particularly interested in.</li>
+
+</ul>
+
+</section>
+</refbody>
+</reference>
