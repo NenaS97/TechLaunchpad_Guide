@@ -21,13 +21,23 @@ The DITA source files in this project primarily utilize the following elements a
 * **`<ul>`, `<li>`:** For creating bulleted lists.
 * **`<cmd>`:** To specify actions the user needs to take in task topics.
 * **`<info>`, `<result>`, `<prereq>`, `<postreq>`:** To provide details and context in task topics.
-* **`<xref>`:** For creating links to other content and external resources, utilizing the `<scope>` attribute to indicate the link target.
+* **`<xref>`:** To create links to other content and external resources, use the `<scope>` attribute to indicate the link target.
 * **`<b>`:** For bold text formatting.
 
 The DITA source files were processed using the **DITA Open Toolkit (DITA-OT)** to generate the HTML5 output.
 
 ## View the Guide
 
-To view the guide, please refer to the generated HTML files in the `outputs` directory after processing the DITA source with DITA-OT.
+To view the live version of this guide, visit [TechLaunchpad Guide](https://nenas97.github.io/TechLaunchpad_Guide/).
+
+This site is automatically generated from the DITA source files in this repository. The generated content is hosted via GitHub Pages for easy access.
+
+## Generating the Output
+
+To regenerate the output site:
+
+1. Run `dita --input=topics/ --output=outputs/`
+2. Copy the HTML and CSS files to the `docs/` folder.
+3. Commit and push the changes to GitHub for the site to update.
 
 **Note:** The content within this personal project was AI-generated.
